@@ -1,0 +1,13 @@
+{
+    "name": "subprocess",
+    "autoload": {
+        "psr-4": {
+            "Subprocess\\": "src/Subprocess/"
+        }
+    },
+    "require-dev": {
+        "giorgiosironi/eris": "0.10.0",
+        "phpunit/phpunit": "7.1.5",
+        "vimeo/psalm": "2.0.0"
+    }
+}
